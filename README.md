@@ -89,6 +89,21 @@ $ yarn dev:server
 
 # Well done, project is started!
 ```
+## 🧞‍ Documentation
+
+**Routes to create products**
+
+```bash
+# Run the server and send a Post request method using Insomnia or Postman to:
+http://localhost:3333/products
+json body example:
+{
+	"title": "guitar",
+	"description": "a cool guitar",
+	"price": 500.00,
+	"category": "musician instrument"
+}
+```
 
 ## 🤔 How to contribute
 
