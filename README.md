@@ -94,7 +94,7 @@ $ yarn dev:server
 **Routes to create products**
 
 ```bash
-# Run the server and send a Post request method using Insomnia or Postman to:
+# Run the server, database(Postgre) and send a Post request method using Insomnia or Postman to:
 http://localhost:3333/products
 json body example:
 {
