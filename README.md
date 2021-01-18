@@ -35,7 +35,7 @@
   <a href="https://insomnia.rest/run/?label=TestBackend%20-%20DiegoJunges&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDiegoJunges%2Ftest-backend-nodejs%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
-##🏻‍♂️ About the project
+## 🛸 About the project
 
 This api has made on a test to a company that im trying a role. I used some SOLID principles and Design Patterns like Singleton, Dependency Injection and others.
 
