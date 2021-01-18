@@ -37,7 +37,7 @@
 
 ##🏻‍♂️ About the project
 
-This api has made on a test to a company that im trying a role.
+This api has made on a test to a company that im trying a role. I used some SOLID principles and Design Patterns like Singleton, Dependency Injection and others.
 
 ## 🚀 Technologies
 
